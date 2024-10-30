@@ -1,12 +1,15 @@
 # ProjetoQuestoesCSharp
 
+# Projeto
+
+Apresentar soluções para questões com níveis de dificuldade variados, utilizando CSharp.
+
 # Instruções
 
 Inicializando pelo Visual Studio 2022, abrindo o arquivo no console terá um menu para acessar as 75 questões, para acessa-lás basta seguir a ordem no menu.
 
 # Questões implementadas
 
-Questões 1-25: Nível Básico
 1. Crie uma classe Produto com propriedades Nome e Preco.
 2. Instancie um objeto da classe Produto e exiba seus valores.
 3. Crie um método que soma dois números inteiros e exibe o resultado.
