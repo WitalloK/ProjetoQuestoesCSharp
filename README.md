@@ -1,10 +1,10 @@
 # ProjetoQuestoesCSharp
 
-#Instruções
+# Instruções
 
-Inicializando pelo Visual Studio, abrindo o console terá um menu para acessar as 75 questões, para acessa-lás basta seguir a ordem nome menu.
+Inicializando pelo Visual Studio 2022, abrindo o arquivo no console terá um menu para acessar as 75 questões, para acessa-lás basta seguir a ordem no menu.
 
-#Questões implementadas
+# Questões implementadas
 
 Questões 1-25: Nível Básico
 1. Crie uma classe Produto com propriedades Nome e Preco.
