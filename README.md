@@ -42,60 +42,59 @@ boas-vindas.
  
 Questões 26-50: Nível Intermediário
 
-28. Crie uma função que ordena três números fornecidos.
-29. Desenvolva um programa que calcula o fatorial de um número.
-30. Crie uma classe Aluno com propriedades Nome e Nota. Implemente um método para exibir
+26. Crie uma função que ordena três números fornecidos.
+27. Desenvolva um programa que calcula o fatorial de um número.
+28. Crie uma classe Aluno com propriedades Nome e Nota. Implemente um método para exibir
 esses valores.
-31. Implemente um método que calcula a média de uma lista de números.
-32. Crie um programa que verifica se uma palavra é um palíndromo.
-33. Implemente uma função que encontra o menor número em um array.
-34. Crie uma função que multiplica todos os elementos de um array por um valor fornecido.
-35. Desenvolva uma função que retorna a soma dos números ímpares em um array.
-36. Crie uma classe Carro com propriedades Marca e Ano.
-37. Implemente um método para verificar se um ano é bissexto.
-38. Crie uma função que exibe os 10 primeiros números da sequência de Fibonacci.
-39. Desenvolva um programa que recebe uma string e substitui todos os espaços por &#39;_&#39;.
-40. Crie uma função que retorna o índice do maior elemento de um array.
-41. Implemente uma função que calcula o MDC (Máximo Divisor Comum) entre dois números.
-42. Desenvolva uma função que retorna o número de vogais em uma string.
-43. Crie uma função que converte um número decimal para binário.
-44. Implemente uma função que recebe um número e exibe sua representação em palavras.
-45. Crie um programa que simula o lançamento de um dado 100 vezes e exibe a frequência de
+29. Implemente um método que calcula a média de uma lista de números.
+30. Crie um programa que verifica se uma palavra é um palíndromo.
+31. Implemente uma função que encontra o menor número em um array.
+32. Crie uma função que multiplica todos os elementos de um array por um valor fornecido.
+33. Desenvolva uma função que retorna a soma dos números ímpares em um array.
+34. Crie uma classe Carro com propriedades Marca e Ano.
+35. Implemente um método para verificar se um ano é bissexto.
+36. Crie uma função que exibe os 10 primeiros números da sequência de Fibonacci.
+37. Desenvolva um programa que recebe uma string e substitui todos os espaços por &#39;_&#39;.
+38. Crie uma função que retorna o índice do maior elemento de um array.
+39. Implemente uma função que calcula o MDC (Máximo Divisor Comum) entre dois números.
+40. Desenvolva uma função que retorna o número de vogais em uma string.
+41. Crie uma função que converte um número decimal para binário.
+42. Implemente uma função que recebe um número e exibe sua representação em palavras.
+43. Crie um programa que simula o lançamento de um dado 100 vezes e exibe a frequência de
 cada valor.
-46. Desenvolva uma função que calcula o IMC e determina a categoria (baixo peso, normal, etc.).
-47. Crie uma função que encontra o segundo maior número em um array.
-48. Implemente um programa que inverte os elementos de um array.
-49. Crie uma função que soma duas matrizes 2x2.
-50. Desenvolva uma função que recebe uma data e exibe o dia da semana correspondente.
+44. Desenvolva uma função que calcula o IMC e determina a categoria (baixo peso, normal, etc.).
+45. Crie uma função que encontra o segundo maior número em um array.
+46. Implemente um programa que inverte os elementos de um array.
+47. Crie uma função que soma duas matrizes 2x2.
+48. Desenvolva uma função que recebe uma data e exibe o dia da semana correspondente.
+49. Crie um programa que verifica se uma string contém apenas letras e números.
+50. Implemente uma função que calcula o valor de uma potência sem usar Math.Pow().
 
 Questões 51-75: Nível Intermediário-Avançado
 
-52. Crie um programa que verifica se uma string contém apenas letras e números.
-53. Implemente uma função que calcula o valor de uma potência sem usar Math.Pow().
-54. Crie uma função que verifica se uma matriz é simétrica.
-55. Desenvolva um programa que ordena uma lista de nomes em ordem alfabética.
-56. Crie uma função que encontra o elemento mais frequente em um array.
-57. Implemente uma função que calcula o valor absoluto de um número sem usar Math.Abs().
-58. Crie um programa que implementa o algoritmo de busca linear.
-59. Desenvolva um programa que simula um cronômetro simples (usando Thread.Sleep).
-60. Implemente uma função que calcula o número de palavras em uma string.
-61. Crie uma classe Pessoa com método Falar() que exibe uma mensagem personalizada.
-62. Crie uma função que retorna a interseção entre dois arrays.
-63. Desenvolva uma função que converte uma string para maiúsculas e minúsculas alternadas.
-64. Implemente uma função que retorna o número de caracteres únicos em uma string.
-65. Crie um programa que exibe os números primos até um valor fornecido.
-66. Desenvolva uma função que verifica se um número é perfeito.
-67. Crie uma função que exibe os divisores de um número.
-68. Implemente um método para calcular a transposta de uma matriz.
-
-69. Crie um programa que exibe o horário atual continuamente (até ser encerrado).
-70. Desenvolva uma função que simula uma calculadora simples (+, -, *, /).
-71. Crie um programa que converte valores monetários para extenso.
-72. Implemente um método que calcula a média ponderada de notas.
-73. Crie um programa que simula um caixa eletrônico para saques.
-74. Desenvolva uma função que verifica se dois arrays são iguais (mesmos elementos e mesma
+51. Crie uma função que verifica se uma matriz é simétrica.
+52. Desenvolva um programa que ordena uma lista de nomes em ordem alfabética.
+53. Crie uma função que encontra o elemento mais frequente em um array.
+54. Implemente uma função que calcula o valor absoluto de um número sem usar Math.Abs().
+55. Crie um programa que implementa o algoritmo de busca linear.
+56. Desenvolva um programa que simula um cronômetro simples (usando Thread.Sleep).
+57. Implemente uma função que calcula o número de palavras em uma string.
+58. Crie uma classe Pessoa com método Falar() que exibe uma mensagem personalizada.
+59. Crie uma função que retorna a interseção entre dois arrays.
+60. Desenvolva uma função que converte uma string para maiúsculas e minúsculas alternadas.
+61. Implemente uma função que retorna o número de caracteres únicos em uma string.
+62. Crie um programa que exibe os números primos até um valor fornecido.
+63. Desenvolva uma função que verifica se um número é perfeito.
+64. Crie uma função que exibe os divisores de um número.
+65. Implemente um método para calcular a transposta de uma matriz.
+66. Crie um programa que exibe o horário atual continuamente (até ser encerrado).
+67. Desenvolva uma função que simula uma calculadora simples (+, -, *, /).
+68. Crie um programa que converte valores monetários para extenso.
+69. Implemente um método que calcula a média ponderada de notas.
+70. Crie um programa que simula um caixa eletrônico para saques.
+71. Desenvolva uma função que verifica se dois arrays são iguais (mesmos elementos e mesma
 ordem).
-75. Implemente uma função que gera uma senha aleatória com letras e números.
-76. Crie um programa que gera uma tabela de multiplicação.
-77. Desenvolva uma função que calcula a área de um triângulo com base em três lados.
-78. Crie uma função que gera números aleatórios únicos entre 1 e N.
+72. Implemente uma função que gera uma senha aleatória com letras e números.
+73. Crie um programa que gera uma tabela de multiplicação.
+74. Desenvolva uma função que calcula a área de um triângulo com base em três lados.
+75. Crie uma função que gera números aleatórios únicos entre 1 e N.
